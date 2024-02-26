@@ -1,0 +1,41 @@
+.bottomCTA{
+    padding-top: calc(var(--section-padding-top) * 2);
+    padding-bottom: calc(var(--section-padding-bottom) * 2);
+    margin-top: var(--section-padding-top);
+    position: relative;
+    color: var(--secondary-text-color);
+}
+
+.bottomCTA h1{
+    text-align: center;
+    font-family: var(--secondary-font);
+    font-size: 4rem;
+}
+
+.bottomCTA p{
+    padding: 3vw 30%;
+    text-align: center;
+    font-size: 1.2rem;
+    line-height: 160%;
+}
+
+/* TABLET STYLES */
+@media only screen and (min-width: 650px) and (max-width: 990px){
+    .bottomCTA p{
+        padding: 4vw 20%;
+        text-align: center;
+        font-size: 1.3rem;
+    }
+}
+ 
+/* MOBILE STYLES */
+@media only screen and (max-width: 649px){
+    .bottomCTA h1{
+        font-size: 3rem;
+    }
+    
+    .bottomCTA p{
+        padding: 6vw 15%;
+        font-size: 1.3rem;
+    }
+}

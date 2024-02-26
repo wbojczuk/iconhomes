@@ -1,0 +1,140 @@
+.contact{
+    display: inline-flex;
+    width: 80%;
+    margin: var(--section-padding-top) 5% var(--section-padding-top) 5%;
+    position: relative;
+    align-items: center;
+    justify-content: space-between;
+    padding: calc(var(--section-padding-top) * 2) 5% calc(var(--section-padding-top) * 2) 5%;
+    /* background-color: #343434; */
+}
+
+.text{
+    color: var(--secondary-text-color);
+    width: 45%;
+    padding-left: 5%;
+}
+
+.text h1{
+    font-family: var(--secondary-font);
+    font-size: 4rem;
+    line-height: 110%;
+}
+
+.text h1 span{
+    color: var(--primary-color-2);
+    text-shadow: -2px 2px 0px var(--secondary-text-color);
+}
+
+.text p{
+    margin-top: 1.5vw;
+    padding-right: 20%;
+    line-height: 200%;
+    font-size: 1.1rem;
+}
+
+.divider{
+    display: inline-block;
+    width: 80%;
+    margin-right: 20%;
+    margin: 1.5vw 0;
+    border-top: 2px dashed var(--secondary-text-color);
+}
+
+.text h4{
+    font-size: 1.4rem;
+}
+
+div:has(.backupContact){
+    margin: 0.5vw 0;
+}
+
+.backupContact{
+    color: var(--secondary-text-color);
+    text-decoration: none;
+}
+
+/* TABLET STYLES */
+@media only screen and (min-width: 650px) and (max-width: 990px){
+    .contact{
+        flex-direction: column;
+        width: 80%;
+        justify-content: center;
+    }
+    
+    .text{
+        width: 100%;
+        /* padding-left: 5%; */
+    }
+    
+    .text h1{
+        font-size: 5rem;
+    }
+    
+    .text p{
+        margin-top: 3vw;
+        padding-right: 30%;
+        line-height: 180%;
+        font-size: 1.3rem;
+    }
+    
+    .divider{
+        margin: 2.5vw 0;
+    }
+    
+    .text h4{
+        font-size: 1.5rem;
+    }
+    
+    div:has(.backupContact){
+        margin: 1vw 0;
+    }
+    .backupContact{
+        font-size: 1.1rem;
+    }
+}
+ 
+/* MOBILE STYLES */
+@media only screen and (max-width: 649px){
+    .contact{
+        flex-direction: column;
+        width: 90%;
+        justify-content: center;
+        margin: var(--section-padding-top) 2.5% var(--section-padding-top) 2.5%;
+        position: relative;
+        align-items: center;
+        justify-content: space-between;
+        padding: calc(var(--section-padding-top) * 2) 2.5% calc(var(--section-padding-top) * 2) 2.5%;
+    }
+    
+    .text{
+        width: 100%;
+        /* padding-left: 5%; */
+    }
+    
+    .text h1{
+        font-size: 4rem;
+    }
+    
+    .text p{
+        margin-top: 4vw;
+        padding-right: 20%;
+        line-height: 180%;
+        font-size: 1.4rem;
+    }
+    
+    .divider{
+        margin: 4vw 0;
+    }
+    
+    .text h4{
+        font-size: 1.6rem;
+    }
+    
+    div:has(.backupContact){
+        margin: 1.5vw 0;
+    }
+    .backupContact{
+        font-size: 1.3rem;
+    }
+}
