@@ -13,7 +13,7 @@ export default function ReviewPage(){
             <main style={{position: "relative"}}>
             <ReviewHeader />
             <Reviews />
-                <img src="/img/brick-bg.jpg" alt="brick background" className="bg-img" style={{opacity:0.2}} />
+                <img src="/img/brick-bg.webp" alt="brick background" className="bg-img" style={{opacity:0.2}} />
             </main>
             
         </>

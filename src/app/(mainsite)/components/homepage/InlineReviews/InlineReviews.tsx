@@ -48,7 +48,7 @@ export default function InlineReviews() {
         <div className={`center ${styles.cta}`}>
             <Link className="main-link" href={"/reviews"}>View More</Link>
         </div>
-        <img style={{opacity: 0.3}} src="/img/brick-bg.jpg" aria-hidden className="bg-img" />
+        <img style={{opacity: 0.3}} src="/img/brick-bg.webp" aria-hidden className="bg-img" />
     </section>
   )
 }

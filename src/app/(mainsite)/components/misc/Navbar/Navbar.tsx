@@ -169,7 +169,7 @@ export default function Navbar() {
 
       <div className={styles.navContent}>
       <Link href="/" className={styles.logo}>
-        <Image src="/img/logo-text.png" className={styles.logoImg} width={500} height={250} alt="Logo" />
+        <Image src="/img/logo-text.webp" className={styles.logoImg} width={500} height={250} alt="Logo" />
         
       </Link>
 

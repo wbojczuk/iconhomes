@@ -10,7 +10,7 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.content}>
 
-        <Image src="/img/logo.png" width={512} height={512} className={styles.logo} alt="Main Logo"/>
+        <Image src="/img/logo.webp" width={512} height={512} className={styles.logo} alt="Main Logo"/>
 
         <div className={styles.links}>
           <aside>

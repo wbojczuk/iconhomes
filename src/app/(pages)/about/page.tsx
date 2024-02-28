@@ -12,7 +12,7 @@ export const metadata: Metadata = {
 export default function AboutPage(){
     return(
         <>
-            <FeaturedService imgSrc="/img/header-bg.png" />
+            <FeaturedService imgSrc="/img/header-bg.webp" />
             <StatsRibbon />
             <InlineReviews />
         </>

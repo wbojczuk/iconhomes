@@ -14,7 +14,7 @@ export default function BottomCTA() {
             <Link style={{backgroundColor: "var(--primary-color)", color: "var(--primary-text-color"}} className="main-link" href="/contact">Get a Quote</Link>
         </div>
 
-        <img src="/img/header-bg.png" alt="image of man working" className="bg-img" />
+        <img src="/img/header-bg.webp" alt="image of man working" className="bg-img" />
         <div className="shader"></div>
     </section>
   )

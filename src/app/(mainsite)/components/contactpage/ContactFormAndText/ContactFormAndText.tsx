@@ -19,7 +19,7 @@ export default function ContactFormAndText() {
         <div className={styles.form}>
             <FreeEstimateForm />
         </div>
-        <img src="/img/header-bg.png" alt="image of man working" className="bg-img" />
+        <img src="/img/header-bg.webp" alt="image of man working" className="bg-img" />
         <div className="shader"></div>
     </section>
   )

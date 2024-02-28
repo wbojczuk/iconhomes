@@ -24,49 +24,49 @@ export default function Home() {
       icon: toolIcon,
       title: "Example Service",
       description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,",
-      backgroundImageUrl: "/img/placeholder-vertical.png"
+      backgroundImageUrl: "/img/placeholder-vertical.webp"
     },
     {
       icon: toolIcon,
       title: "Example Service",
       description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,",
-      backgroundImageUrl: "/img/placeholder-vertical.png"
+      backgroundImageUrl: "/img/placeholder-vertical.webp"
     },
     {
       icon: toolIcon,
       title: "Example Service",
       description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,",
-      backgroundImageUrl: "/img/placeholder-vertical.png"
+      backgroundImageUrl: "/img/placeholder-vertical.webp"
     },
     {
       icon: toolIcon,
       title: "Example Service",
       description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,",
-      backgroundImageUrl: "/img/placeholder-vertical.png"
+      backgroundImageUrl: "/img/placeholder-vertical.webp"
     },
     {
       icon: toolIcon,
       title: "Example Service",
       description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,",
-      backgroundImageUrl: "/img/placeholder-vertical.png"
+      backgroundImageUrl: "/img/placeholder-vertical.webp"
     },
     {
       icon: toolIcon,
       title: "Example Service",
       description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,",
-      backgroundImageUrl: "/img/placeholder-vertical.png"
+      backgroundImageUrl: "/img/placeholder-vertical.webp"
     },
     {
       icon: toolIcon,
       title: "Example Service",
       description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,",
-      backgroundImageUrl: "/img/placeholder-vertical.png"
+      backgroundImageUrl: "/img/placeholder-vertical.webp"
     },
     {
       icon: toolIcon,
       title: "Example Service",
       description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,",
-      backgroundImageUrl: "/img/placeholder-vertical.png"
+      backgroundImageUrl: "/img/placeholder-vertical.webp"
     },
   ]
 

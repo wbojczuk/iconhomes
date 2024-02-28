@@ -19,11 +19,11 @@ export default function AboutUs() {
 
         <div className={styles.imgWrapper}>
           <div className={styles.imgContainer}>
-            <img src="/img/aboutus-main.png" alt="image of crane" className={styles.mainImg} />
+            <img src="/img/aboutus-main.webp" alt="image of crane" className={styles.mainImg} />
             <div className={styles.imgStyle}></div>
           </div>
         </div>
-        <img src="/img/aboutus-bg.png" alt="icon homes logo" className={styles.bgImg} />
+        <img src="/img/aboutus-bg.webp" alt="icon homes logo" className={styles.bgImg} />
     </section>
   )
 }
