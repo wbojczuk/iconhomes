@@ -34,9 +34,9 @@ export default function Footer() {
               <h3 className={styles.listTitle}>Categories</h3>
               <ul className={styles.list}>
 
-                <span className={styles.listItem}>Category</span>
-                <span className={styles.listItem}>Category</span>
-                <span className={styles.listItem}>Category</span>
+                <span className={styles.listItem}>Construction</span>
+                <span className={styles.listItem}>Renovation</span>
+                <span className={styles.listItem}>Contracting</span>
               
               </ul>
             </aside>
@@ -47,17 +47,17 @@ export default function Footer() {
 
                 <aside className={`${styles.contactItem} ${styles.listItem}`}>
                 <InlineIcon icon={"mdi:phone"} width="50px" height="50px" />
-                  <a href="tel:0000000000" target="_blank">(000) 000-0000</a>
+                  <a href="tel:+270823171102" target="_blank">(082) 317-1102</a>
                 </aside>
                 
                 <aside className={`${styles.contactItem} ${styles.listItem}`}>
                 <InlineIcon icon={"mdi:email"} width="50px" height="50px" />
-                  <a href="mailto:example@gmail.com" target="_blank">example@gmail.com</a>
+                  <a href="mailto:hannes@iconichome.co.za" target="_blank">hannes@iconichome.co.za</a>
                 </aside>
                 
                 <aside className={`${styles.contactItem} ${styles.listItem}`}>
                 <InlineIcon icon={"mdi:map-marker"} width="50px" height="50px" />
-                  <a href="https://google.com" target="_blank">Rome, Georgia</a>
+                  <a href="https://google.com" target="_blank">Newcastle, KZN</a>
                 </aside>
 
               </ul>
@@ -66,7 +66,7 @@ export default function Footer() {
 
       </div>
 
-      <div className={styles.copyright}>© Copyright 2023 to Present - <a href="https://www.romedigital.co" target="_blank">Rome Digital</a></div>
+      <div className={styles.copyright}>© Copyright 2024 to Present - <a href="https://www.romedigital.co" target="_blank">Rome Digital</a></div>
         
        
     </footer>
