@@ -212,7 +212,10 @@
 /* SMALL LAPTOP STYLES */
 @media only screen and (min-width: 991px) and (max-width: 1400px){
     .mainNav{
-        width: 80%;
+        /* width: 80%; */
+        
+    }
+    .navContent{
         padding: 0.6vw 10%;
     }
     .logo span{
