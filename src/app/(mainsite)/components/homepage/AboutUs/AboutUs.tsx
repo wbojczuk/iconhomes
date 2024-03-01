@@ -11,7 +11,7 @@ export default function AboutUs() {
         <div className={styles.textWrapper}>
             <h1>About Icon Homes <span style={cssProps} className="underline">Construction</span></h1>
 
-            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+            <p>At Icon Homes, we're not your average builders. We're your partners in creating spaces that truly reflect who you are and what you need. Whether it's a cozy nest for your family or a sleek new office space, we've got the skills and the smiles to make it happen. So, if you're ready to turn those ideas into bricks and mortar, let's chat!</p>
 
             <Link style={{backgroundColor: "var(--primary-color-3)"}} className="main-link" href="/contact">Get a Quote</Link>
         </div>

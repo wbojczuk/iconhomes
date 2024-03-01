@@ -7,7 +7,7 @@ export default function Header() {
     <header className={styles.header}>
         <h1>Construction Contractor<br />Serving <span className="underline">Newcastle</span>, KZN</h1>
 
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+        <p>At Icon Homes, we've got the tools, the talent, and the passion to turn your vision into reality. Whether you're dreaming of a cozy cottage or a sleek office space, we've got you covered. With our down-to-earth team of professionals, we'll walk you through every step of the process, making sure your project is not only top-notch but stress-free too. So why settle for ordinary when you can have extraordinary with Icon Homes? Let's build something amazing together!</p>
         
 
         <Link href="/contact" className="main-link">Get a Quote</Link>
