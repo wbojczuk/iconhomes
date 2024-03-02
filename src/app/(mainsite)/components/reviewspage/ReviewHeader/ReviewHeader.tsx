@@ -5,7 +5,7 @@ export default function ReviewHeader() {
     <header className={styles.header}>
         <h4>TESTIMONIALS</h4>
         <h2>WHAT OUR CUSTOMERS HAVE TO SAY ABOUT OUR WORK</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic ab quas unde laudantium veniam itaque vel nam aspernatur ipsa? Cum iusto voluptates itaque assumenda illum molestiae pariatur quos sit hic. Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam incidunt molestiae delectus rerum beatae, maiores dolor.</p>
+        <p>From residential renovations to commercial builds, our clients have entrusted us with their projects and we're proud to showcase their thoughts. Look to discover why Icon Homes is the go-to construction company for quality, reliability, and exceptional customer service.</p>
     </header>
   )
 }

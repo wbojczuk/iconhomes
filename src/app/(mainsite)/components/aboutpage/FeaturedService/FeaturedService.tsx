@@ -15,9 +15,7 @@ export default function FeaturedService(props: {imgSrc: string}) {
             <h4>Who We Are</h4>
             <h2>About Icon Homes Construction</h2>
 
-            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatem suscipit, nam aliquid vero tenetur doloribus quas distinctio maxime doloremque et. Consequatur, odio velit ipsam quod placeat accusamus mollitia optio laudantium?
-            <br /><br />
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Veniam, nihil. Sit, animi similique voluptatibus corporis saepe aliquam accusantium autem sunt quasi ut pariatur, eum dolorum soluta ad obcaecati, asperiores et.
+            <p>At Icon Homes, we're not your average builders. We're your partners in creating spaces that truly reflect who you are and what you need. Whether it's a cozy nest for your family or a sleek new office space, we've got the skills and the smiles to make it happen. So, if you're ready to turn those ideas into bricks and mortar, let's chat!
             </p>
             <Link href="/contact" className="main-link">Get A Quote</Link>
         </div>

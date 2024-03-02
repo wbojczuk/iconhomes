@@ -10,10 +10,10 @@ export default function ContactFormAndText() {
             <div className={styles.divider}></div>
             <h4>Any problem about your booking?<br />You can contact us at :</h4>
             <div>
-            <a className={styles.backupContact} href="mailto:example@example.com">- example@example.com</a>
+            <a className={styles.backupContact} href="mailto:hannes@iconichome.co.za">- hannes@iconichome.co.za</a>
             </div>
             <div>
-            <a className={styles.backupContact} href="tel:0000000000">- (000) 000-0000</a>
+            <a className={styles.backupContact} href="tel:+270823171102">- (082) 317-1102</a>
             </div>
         </div>
         <div className={styles.form}>

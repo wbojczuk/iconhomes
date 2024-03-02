@@ -1,10 +1,10 @@
 const galleryImgs: string[] = [
-    "/img/aboutus-main.webp",
-    "/img/header-bg.webp",
-    "/img/placeholder-vertical.webp",
-    "/img/aboutus-main.webp",
-    "/img/header-bg.webp",
-    "/img/placeholder-vertical.webp",
+    "/img/pastwork/1.webp",
+    "/img/pastwork/2.webp",
+    "/img/pastwork/3.webp",
+    "/img/pastwork/4.webp",
+    "/img/pastwork/5.webp",
+    "/img/pastwork/6.webp",
 ]
 
 export default galleryImgs

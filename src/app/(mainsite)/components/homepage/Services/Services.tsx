@@ -37,7 +37,7 @@ export default function Services(props: servicesModuleType) {
     <section className={styles.services}>
             <h4>Our Services</h4>
             <h2>Commercial and Residential Construction Services</h2>
-            <p className={styles.desc}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam, eum. Quasi natus quas animi saepe, harum deleniti officiis unde perspiciatis quo vel vitae nulla soluta molestias odio quis! Ipsam, ut. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam consequatur ea nihil itaque. Accusamus similique itaque officia vero autem debitis eligendi nemo ut quisquam quo cumque, sequi iusto. Blanditiis, reiciendis!</p>
+            <p className={styles.desc}>We're your one-stop destination for all things construction in Newcastle, KZN. Whether it's bringing businesses to life with sleek office complexes and vibrant retail spaces, or building dream homes that reflect your unique style and visions, we've got you covered. Our team of skilled professionals is dedicated to delivering top-notch commercial projects that inspire success and residential spaces that feel like home sweet home. From concept to completion, we're here to turn your vision into reality with a perfect blend of expertise and a personal touch. Let's build something amazing together!</p>
 
             <div className={styles.servicesWrapper}>
                 {serviceElems}

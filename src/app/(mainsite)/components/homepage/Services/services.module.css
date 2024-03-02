@@ -30,6 +30,9 @@
 
 .servicesWrapper{
     padding: 1vw 5%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .service{

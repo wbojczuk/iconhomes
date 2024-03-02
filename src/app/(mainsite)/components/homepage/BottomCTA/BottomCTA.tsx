@@ -8,7 +8,7 @@ export default function BottomCTA() {
 
         <h1><span className="underline">Get It Done</span> With Us Today!</h1>
 
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem </p>
+        <p>Contact Icon Homes today and let's make it happen! Whether you're looking to upgrade your living space, enhance your business premises, or secure your property with top-notch roofing and construction services, we're here to turn your vision into reality.</p>
 
         <div className="center">
             <Link style={{backgroundColor: "var(--primary-color)", color: "var(--primary-text-color"}} className="main-link" href="/contact">Get a Quote</Link>
