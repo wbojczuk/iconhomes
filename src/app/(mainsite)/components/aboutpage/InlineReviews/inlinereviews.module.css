@@ -61,4 +61,7 @@
     .reviewSlider{
         width: 45%;
     }
+    .reviewsWrapper p{
+        height: 35vw !important;
+    }
 }
